@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.title-name{
+    font-family: "Roboto";
+    font-size: 40px;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+.detailed-view{
+    font-family: "Roboto";
+    font-size: 17px;
+    padding: 10px;
+    
+}
+
+.home-page-card{
+    margin: 40px;
+}
+
+.home-page-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+   
+    
+}
+
+.home-page-paragraph{
+    font-family: "Roboto";
+    font-size: 25px; 
+    color: #5f665f;
+
+}
+
+.home-page-button{
+    border-radius: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #3491e3;
+    background-color: #ffffff;
+    font-size: 17px;
+    padding: 10px;
+    color: #3491e3;
+    width: 10vw;
+    
+}
+
+.about-heading{
+    font-family: "Roboto";
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.about-paragraph{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #3f414a;
+    text-align: left;
+}
+
+.about-card{
+    padding: 50px;
+}
+
+.chain-finance-heading{
+    font-family: "Roboto";
+    font-size: 18px;
+    color: black; 
+    padding: 10px;
+    font-weight: bold;
+}
+
+.chain-finance-card{
+    padding: 20px;
+    background-image: url("https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8236.jpg?w=740&t=st=1693163072~exp=1693163672~hmac=6ee12449233ae3a4b3ecdd0c43ab55beb731414c74964d9d98915acbe5817af0");
+    height: 50vh;
+    width: 45vw;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.chain-finance-image{
+    height: 7vh;
+    width: 3.5vw;
+    margin: 10px;
+}
+
+.chain-finance-lists{
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #46484f;
+    
+}
+
+.erp-image{
+    height: 8vh;
+    width: 5vw;
+    margin: 5px;
+}
+
+.chain-erp-card{
+    margin: 30px;
+    
+}
+
+.expertise-chain-finance-card{
+    background-image: url("https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?w=740&t=st=1692899852~exp=1692900452~hmac=4431a5aa436a56d6c44b2935cb02799ecdea9d455b0820cedcc7f015466547cb");
+    height: 55vh;
+    width: 45vw;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+.expertise-chain-finance-paragraph{
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #2c2d30;
+    text-align: left;
+    
+}
+
+.expertise-chain-finance-heading{
+    font-family: "Roboto";
+    font-size: 18px;
+    color: black; 
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.expertise-chain-finance-subcard{
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    height: 32vh;
+
+}
+
+.customized-erp-development-card{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-desk-arrangement-with-copy-space_23-2148928165.jpg?w=826&t=st=1692900958~exp=1692901558~hmac=edc6c7791d7b018c0b7483de8441ac560eb6b8a76fb3825d0fa35d6a61b6d760");
+    height: 55vh;
+    width: 45vw;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.process-automation-card{
+    background-image: url("https://img.freepik.com/free-photo/business-concept-young-business-man-woking-financial-plan-strategy-analysis_1258-315.jpg?w=740&t=st=1692901740~exp=1692902340~hmac=076f331b0d039bdd8d32b7f153f6918444853a91b179f0e0d815703433f52bda");
+    height: 55vh;
+    width: 45vw;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.process-automation-image{
+    height: 7vh;
+    width: 3.5vw;
+    margin: 5px;
+}
+
+.web-mobile-app-development-card{
+    background-image: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1692903522~exp=1692904122~hmac=9b683d2d15dd780b5812e4c0213e2ad6bd776cbcca6e6299428afdb9dffe6e82");
+    height: 55vh;
+    width: 45vw;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.web-mobile-image{
+    height: 8vh;
+    width: 4vw;
+    margin: 5px;
+}
+.company-name2{
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.home-page-paragraph2{
+    font-family: "Roboto";
+    font-size: 17px; 
+    color: #5f665f;
+
+}
+
+.contact-card{
+    padding: 40px;
+}
+
+.location-icon{
+    height: 13vh;
+    width: 7vw;
+}
+
+.home-page-paragraph3{
+    font-family: "Roboto";
+    font-size: 17px; 
+    color: #5f665f;
+    padding: 15px;
+}
+
+.email-icon{
+    height: 7vh;
+    width: 3vw;
+     
+}
+
+.email-para{
+    color: #3491e3;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;    
+}
+
+.email-card{
+    padding: 2px;
+    margin: 28px;
+}
+
+
+.phone-icon{
+    height:12vh;
+    width: 6vw;
+    font-size: 13px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.phone-number{
+    padding: 13px;
+
+}
+
+.contact-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact-details-name{
+    font-family: "Roboto";
+    font-size: 15px; 
+    color: #5f665f;
+    padding: 10px;
+    text-align: left;
+    border-style: solid;
+    border-color: #d1d7eb;
+    border-width: 1px;
+    height: 7vh;
+    width: 30vw;
+    margin: 25px;
+}
+
+.contact-details-message{
+    font-family: "Roboto";
+    font-size: 15px; 
+    color: #5f665f;
+    padding: 10px;
+    text-align: left;
+    border-style: solid;
+    border-color: #d1d7eb;
+    border-width: 1px;
+    height: 17vh;
+    width: 30vw;
+    margin: 25px;
+}
+
+.copyright-heading{
+    font-family: "Roboto";
+    font-size: 14px;
+    margin: 10px;
+    color: #5f665f;
+}
+
+.detailed-view{
+    font-family: "Roboto";
+    font-size: 17px;
+    padding: 10px;
+    color: #5f665f;
+    
+}
+
+.main-image{
+    height: 70vh;
+    width: 45vw;
+    padding: 30px;
+    margin: 20px;
+    background-size: cover;
+}
+
+.home-page-button2{
+    border-radius: 25px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #3491e3;
+    background-color: #ffffff;
+    font-size: 17px;
+    padding: 10px;
+    color: #ffffff;
+    width: 10vw;
+    background-color: #3491e3;
+    
+}
+
+
+.contact-last-card{
+    background-color: #ffffff;
+}
